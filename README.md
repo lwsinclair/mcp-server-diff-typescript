@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tatn-mcp-server-diff-typescript-badge.png)](https://mseep.ai/app/tatn-mcp-server-diff-typescript)
+
 # mcp-server-diff-typescript MCP Server
 
 A Model Context Protocol server that provides unified diff generation capabilities.
